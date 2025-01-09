@@ -1,0 +1,4 @@
+# Core LLM Streamlit Application Dependencies
+streamlit
+anthropic
+python-dotenv
